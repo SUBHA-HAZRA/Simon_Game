@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 1rem;
+    border: 5px solid black;
+    margin: 2.5rem;
+}
+.Btn-contaner{
+    display: flex;
+    justify-content: center;
+}
+.one{
+    background-color: #d95980;
+}
+.two{
+    background-color: #f99b45;
+}
+.three{
+    background-color: #63aac0;
+}
+.four{
+    background-color: #819ff9;
+}
+.flash{
+    background-color: yellow;
+}
+.userflash{
+    background-color:greenyellow;
+}
