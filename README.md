@@ -17,7 +17,6 @@ A simple **Simon Game** built using HTML, CSS, and JavaScript. The game tests th
 - **CSS**: Styling for game buttons and UI.
 - **JavaScript**: Game logic, event handling, and local storage.
 
-## 🎮 Demo
 
 
 
